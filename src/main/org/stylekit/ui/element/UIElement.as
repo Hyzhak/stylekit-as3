@@ -1714,7 +1714,7 @@ package org.stylekit.ui.element
 					value = radius;
 					break;
 				case "animation":
-					var anim:AmimationCompoundValue = new AnimationCompoundValue();
+					var anim:AnimationCompoundValue = new AnimationCompoundValue();
 					
 					anim.animationNameValue = this.getStyleValue("animation-name") as ValueArray;
 					anim.animationDurationValue = this.getStyleValue("animation-duration") as ValueArray;

@@ -26,7 +26,7 @@ package org.stylekit.css.property
 	
 	import flash.events.EventDispatcher;
 	
-	import mx.controls.List;
+	//import mx.controls.List;
 	
 	import org.stylekit.css.value.AnimationCompoundValue;
 	import org.stylekit.css.value.BackgroundCompoundValue;
