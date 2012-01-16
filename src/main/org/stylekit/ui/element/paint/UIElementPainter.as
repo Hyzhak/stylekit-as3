@@ -34,8 +34,8 @@ package org.stylekit.ui.element.paint
 	import flash.system.LoaderContext;
 	import flash.utils.ByteArray;
 	
-	import mx.controls.SWFLoader;
-	import mx.effects.easing.Back;
+	//import mx.controls.SWFLoader;
+	//import mx.effects.easing.Back;
 	
 	import org.stylekit.StyleKit;
 	import org.stylekit.css.value.BorderCompoundValue;

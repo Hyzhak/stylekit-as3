@@ -71,7 +71,9 @@ package org.stylekit.css.selector
 			var score:uint = 0;
 			for(var i:uint=0; i < this._elementSelectors.length; i++)
 			{
-				score += this._elementSelectors[i];
+				//ElementSelector not uint and even contains any number
+				//score += this._elementSelectors[i];
+				score += 1;
 			}
 			return score;
 		}
